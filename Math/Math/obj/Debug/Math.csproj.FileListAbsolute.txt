@@ -1,0 +1,5 @@
+C:\BuildApp\Math\Math\bin\Debug\Math.exe
+C:\BuildApp\Math\Math\bin\Debug\Math.pdb
+C:\BuildApp\Math\Math\obj\Debug\Math.exe
+C:\BuildApp\Math\Math\obj\Debug\Math.pdb
+C:\BuildApp\Math\Math\obj\Debug\Math.csprojResolveAssemblyReference.cache

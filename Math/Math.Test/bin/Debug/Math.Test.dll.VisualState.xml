@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="true">
+  <TopNode>[0-1005]C:\BuildApp\Math\Math.Test\bin\Debug\Math.Test.dll</TopNode>
+  <SelectedNode>[0-1001]Math.Test.TestMath+TestClass.AddTest</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1005]C:\BuildApp\Math\Math.Test\bin\Debug\Math.Test.dll" Expanded="true" />
+    <Node UniqueName="[0-1006]Math" Expanded="true" />
+    <Node UniqueName="[0-1007]Math.Test" Expanded="true" />
+    <Node UniqueName="[0-1000]Math.Test.TestMath+TestClass" Expanded="true" />
+    <Node UniqueName="[0-1001]Math.Test.TestMath+TestClass.AddTest" Expanded="true" Checked="true" />
+    <Node UniqueName="[0-1003]Math.Test.TestMath+TestClass.SubtractTest" Expanded="true" Checked="true" />
+  </Nodes>
+</VisualState>

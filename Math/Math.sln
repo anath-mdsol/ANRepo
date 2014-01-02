@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "Math\Math.csproj", "{77781233-5EE7-4621-8AF2-DE5A673B896F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math.Test", "Math.Test\Math.Test.csproj", "{5931C437-F9F6-4D6D-8CD1-2AD47FF318C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77781233-5EE7-4621-8AF2-DE5A673B896F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77781233-5EE7-4621-8AF2-DE5A673B896F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77781233-5EE7-4621-8AF2-DE5A673B896F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77781233-5EE7-4621-8AF2-DE5A673B896F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5931C437-F9F6-4D6D-8CD1-2AD47FF318C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5931C437-F9F6-4D6D-8CD1-2AD47FF318C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5931C437-F9F6-4D6D-8CD1-2AD47FF318C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5931C437-F9F6-4D6D-8CD1-2AD47FF318C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
