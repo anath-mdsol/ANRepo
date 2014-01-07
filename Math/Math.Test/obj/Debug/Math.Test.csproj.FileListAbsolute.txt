@@ -1,0 +1,9 @@
+C:\BuildApp\Math\Math.Test\bin\Debug\Math.Test.dll
+C:\BuildApp\Math\Math.Test\bin\Debug\Math.Test.pdb
+C:\BuildApp\Math\Math.Test\bin\Debug\Math.exe
+C:\BuildApp\Math\Math.Test\bin\Debug\nunit.framework.dll
+C:\BuildApp\Math\Math.Test\bin\Debug\Math.pdb
+C:\BuildApp\Math\Math.Test\obj\Debug\Math.Test.dll
+C:\BuildApp\Math\Math.Test\obj\Debug\Math.Test.pdb
+C:\BuildApp\Math\Math.Test\bin\Debug\TechTalk.SpecFlow.dll
+C:\BuildApp\Math\Math.Test\obj\Debug\Math.Test.csprojResolveAssemblyReference.cache

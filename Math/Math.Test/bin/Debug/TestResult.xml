@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\BuildApp\Math\Math.Test\bin\Debug\Math.Test.dll" total="2" errors="0" failures="1" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2013-12-20" time="16:12:00">
+  <environment nunit-version="2.6.2.12296" clr-version="2.0.50727.5456" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Nunit\NUnit-2.6.2\bin" machine-name="C02HP5F1DV7L-VM" user="anath" user-domain="MDSOL" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\BuildApp\Math\Math.Test\bin\Debug\Math.Test.dll" executed="True" result="Failure" success="False" time="0.186" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Math" executed="True" result="Failure" success="False" time="0.177" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Test" executed="True" result="Failure" success="False" time="0.177" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="TestMath+TestClass" executed="True" result="Failure" success="False" time="0.176" asserts="0">
+                <results>
+                  <test-suite type="ParameterizedTest" name="AddTest" executed="True" result="Success" success="True" time="0.144" asserts="0">
+                    <results>
+                      <test-case name="Math.Test.TestMath+TestClass.AddTest()" executed="True" result="Success" success="True" time="0.139" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="SubtractTest" executed="True" result="Failure" success="False" time="0.024" asserts="0">
+                    <results>
+                      <test-case name="Math.Test.TestMath+TestClass.SubtractTest()" executed="True" result="Failure" success="False" time="0.022" asserts="1">
+                        <failure>
+                          <message><![CDATA[  Expected: 10
+  But was:  11
+]]></message>
+                          <stack-trace><![CDATA[at Math.Test.TestMath.TestClass.SubtractTest() in c:\BuildApp\Math\Math.Test\TestMath.cs:line 30
+]]></stack-trace>
+                        </failure>
+                      </test-case>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

@@ -1,0 +1,5 @@
+C:\BuildApp\Math\Math\BuildArtifacts\Math.Test.dll
+C:\BuildApp\Math\Math\BuildArtifacts\Math.Test.pdb
+C:\BuildApp\Math\Math.Test\obj\Release\Math.Test.csprojResolveAssemblyReference.cache
+C:\BuildApp\Math\Math.Test\obj\Release\Math.Test.dll
+C:\BuildApp\Math\Math.Test\obj\Release\Math.Test.pdb
