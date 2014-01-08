@@ -3,7 +3,7 @@
   <ItemGroup>
     <BuildArtifactsDir Include="BuildArtifacts\" />
     <SolutionFile Include= "..\Math.sln" />
-    <NUnitConsole Include="..\binaries\NUnit-2.6.2\bin\nunit-console.exe" />
+    <NUnitConsole Include=".\binaries\NUnit-2.6.2\bin\nunit-console.exe" />
     <UnitTestsDLL Include="..\math\buildartifacts\math.test.dll" />
     <TestResultsPath Include="..\math\buildartifacts\testresults.xml" />
   </ItemGroup>
